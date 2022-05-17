@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/connectivity_plus/intermediates/merged_res/release/layout/custom_dialog.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/8515538e5c51c8b6f3b8a7dc058ed824/transformed/core-1.6.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/connectivity_plus/intermediates/merged_res/release/layout/notification_action.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/8515538e5c51c8b6f3b8a7dc058ed824/transformed/core-1.6.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/connectivity_plus/intermediates/merged_res/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/8515538e5c51c8b6f3b8a7dc058ed824/transformed/core-1.6.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/connectivity_plus/intermediates/merged_res/release/layout/notification_template_part_time.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/8515538e5c51c8b6f3b8a7dc058ed824/transformed/core-1.6.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/connectivity_plus/intermediates/merged_res/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/8515538e5c51c8b6f3b8a7dc058ed824/transformed/core-1.6.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/connectivity_plus/intermediates/merged_res/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/8515538e5c51c8b6f3b8a7dc058ed824/transformed/core-1.6.0/res/layout/notification_action_tombstone.xml"
+    }
+]

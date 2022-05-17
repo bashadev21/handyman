@@ -1,0 +1,38 @@
+<variant
+    name="release"
+    package="com.mymobi.n2"
+    minSdkVersion="21"
+    targetSdkVersion="31"
+    shrinking="true"
+    mergedManifest="/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/app/intermediates/merged_manifest/release/AndroidManifest.xml"
+    manifestMergeReport="/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/app/outputs/logs/manifest-merger-release-report.txt"
+    proguardFiles="/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/app/intermediates/default_proguard_files/global/proguard-android.txt-7.0.2:/Users/basha/flutter_sdk/flutter/packages/flutter_tools/gradle/flutter_proguard_rules.pro:proguard-rules.pro"
+    partialResultsDir="/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/app/intermediates/lint_vital_partial_results/release/out">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifest="src/main/AndroidManifest.xml"
+        javaDirectories="src/main/java:src/main/kotlin"
+        resDirectories="src/main/res"
+        assetsDirectories="src/main/assets"/>
+    <sourceProvider
+        manifest="src/release/AndroidManifest.xml"
+        javaDirectories="src/release/java:src/release/kotlin"
+        resDirectories="src/release/res"
+        assetsDirectories="src/release/assets"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <manifestPlaceholders>
+    <placeholder
+        name="applicationName"
+        value="android.app.Application" />
+  </manifestPlaceholders>
+  <mainArtifact
+      classOutputs="/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/app/intermediates/javac/release/classes:/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/app/tmp/kotlin-classes/release:/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/app/intermediates/compile_and_runtime_not_namespaced_r_class_jar/release/R.jar"
+      applicationId="com.mymobi.n2"
+      generatedSourceFolders="/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/app/generated/ap_generated_sources/release/out:/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/app/generated/aidl_source_output_dir/release/out:/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/app/generated/source/buildConfig/release:/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/app/generated/renderscript_source_output_dir/release/out"
+      generatedResourceFolders="/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/app/generated/res/google-services/release:/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/app/generated/crashlytics/res/release:/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/app/generated/res/rs/release:/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/app/generated/res/resValues/release">
+  </mainArtifact>
+</variant>

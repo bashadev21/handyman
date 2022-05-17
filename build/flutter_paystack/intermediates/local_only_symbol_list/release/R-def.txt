@@ -1,0 +1,7 @@
+R_DEF: Internal format may change without notice
+local
+dimen paystack__view__margin
+id webView
+layout co_paystack_android____activity_auth
+string auth_text
+style Paystack.Dialog

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/shared_preferences_android/intermediates/merged_res/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/8515538e5c51c8b6f3b8a7dc058ed824/transformed/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/shared_preferences_android/intermediates/merged_res/release/drawable/notification_bg_low.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/8515538e5c51c8b6f3b8a7dc058ed824/transformed/core-1.6.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/shared_preferences_android/intermediates/merged_res/release/drawable/notification_icon_background.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/8515538e5c51c8b6f3b8a7dc058ed824/transformed/core-1.6.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/shared_preferences_android/intermediates/merged_res/release/drawable/notification_bg.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/8515538e5c51c8b6f3b8a7dc058ed824/transformed/core-1.6.0/res/drawable/notification_bg.xml"
+    }
+]

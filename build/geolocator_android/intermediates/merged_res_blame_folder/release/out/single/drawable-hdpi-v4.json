@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/geolocator_android/intermediates/merged_res/release/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/basha/.gradle/caches/transforms-3/8515538e5c51c8b6f3b8a7dc058ed824/transformed/core-1.6.0/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/geolocator_android/intermediates/merged_res/release/drawable-hdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/basha/.gradle/caches/transforms-3/8515538e5c51c8b6f3b8a7dc058ed824/transformed/core-1.6.0/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/geolocator_android/intermediates/merged_res/release/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/basha/.gradle/caches/transforms-3/8515538e5c51c8b6f3b8a7dc058ed824/transformed/core-1.6.0/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/geolocator_android/intermediates/merged_res/release/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/Users/basha/.gradle/caches/transforms-3/fa8e87da90169a471d7879e1c3337cd6/transformed/jetified-play-services-base-17.0.0/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/geolocator_android/intermediates/merged_res/release/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/Users/basha/.gradle/caches/transforms-3/fa8e87da90169a471d7879e1c3337cd6/transformed/jetified-play-services-base-17.0.0/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/geolocator_android/intermediates/merged_res/release/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/Users/basha/.gradle/caches/transforms-3/fa8e87da90169a471d7879e1c3337cd6/transformed/jetified-play-services-base-17.0.0/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/geolocator_android/intermediates/merged_res/release/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/basha/.gradle/caches/transforms-3/8515538e5c51c8b6f3b8a7dc058ed824/transformed/core-1.6.0/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/geolocator_android/intermediates/merged_res/release/drawable-hdpi-v4/googleg_disabled_color_18.png",
+        "source": "/Users/basha/.gradle/caches/transforms-3/fa8e87da90169a471d7879e1c3337cd6/transformed/jetified-play-services-base-17.0.0/res/drawable-hdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/geolocator_android/intermediates/merged_res/release/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/Users/basha/.gradle/caches/transforms-3/fa8e87da90169a471d7879e1c3337cd6/transformed/jetified-play-services-base-17.0.0/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/geolocator_android/intermediates/merged_res/release/drawable-hdpi-v4/googleg_standard_color_18.png",
+        "source": "/Users/basha/.gradle/caches/transforms-3/fa8e87da90169a471d7879e1c3337cd6/transformed/jetified-play-services-base-17.0.0/res/drawable-hdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/geolocator_android/intermediates/merged_res/release/drawable-hdpi-v4/common_full_open_on_phone.png",
+        "source": "/Users/basha/.gradle/caches/transforms-3/fa8e87da90169a471d7879e1c3337cd6/transformed/jetified-play-services-base-17.0.0/res/drawable-hdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/geolocator_android/intermediates/merged_res/release/drawable-hdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/basha/.gradle/caches/transforms-3/8515538e5c51c8b6f3b8a7dc058ed824/transformed/core-1.6.0/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    }
+]

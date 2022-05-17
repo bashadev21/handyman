@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/anim/btn_checkbox_to_checked_icon_null_animation.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/62a76036ade00632e029701d50778243/transformed/appcompat-1.4.1/res/anim/btn_checkbox_to_checked_icon_null_animation.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/anim/stripe_3ds2_challenge_transition_slide_out.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/c49dd30e5da8f7c8653d802333a86dea/transformed/jetified-stripe-3ds2-android-6.1.3/res/anim/stripe_3ds2_challenge_transition_slide_out.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/62a76036ade00632e029701d50778243/transformed/appcompat-1.4.1/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/anim/design_snackbar_out.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/5274c569178a0d36b8f4c55496dd0fe3/transformed/material-1.5.0/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/anim/stripe_card_widget_progress_fade_out.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/87c9850b8d6e7311055347c80b5a3776/transformed/jetified-payments-core-19.2.2/res/anim/stripe_card_widget_progress_fade_out.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/62a76036ade00632e029701d50778243/transformed/appcompat-1.4.1/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/anim/btn_radio_to_on_mtrl_dot_group_animation.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/62a76036ade00632e029701d50778243/transformed/appcompat-1.4.1/res/anim/btn_radio_to_on_mtrl_dot_group_animation.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/anim/btn_checkbox_to_unchecked_check_path_merged_animation.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/62a76036ade00632e029701d50778243/transformed/appcompat-1.4.1/res/anim/btn_checkbox_to_unchecked_check_path_merged_animation.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/62a76036ade00632e029701d50778243/transformed/appcompat-1.4.1/res/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/anim/abc_fade_in.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/62a76036ade00632e029701d50778243/transformed/appcompat-1.4.1/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/anim/mtrl_card_lowers_interpolator.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/5274c569178a0d36b8f4c55496dd0fe3/transformed/material-1.5.0/res/anim/mtrl_card_lowers_interpolator.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/62a76036ade00632e029701d50778243/transformed/appcompat-1.4.1/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/anim/stripe_paymentsheet_transition_fade_in.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/c08975e001ea6084d89dcc0b6809d444/transformed/jetified-paymentsheet-19.2.2/res/anim/stripe_paymentsheet_transition_fade_in.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/62a76036ade00632e029701d50778243/transformed/appcompat-1.4.1/res/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/anim/btn_checkbox_to_unchecked_icon_null_animation.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/62a76036ade00632e029701d50778243/transformed/appcompat-1.4.1/res/anim/btn_checkbox_to_unchecked_icon_null_animation.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/anim/abc_popup_exit.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/62a76036ade00632e029701d50778243/transformed/appcompat-1.4.1/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/anim/abc_tooltip_exit.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/62a76036ade00632e029701d50778243/transformed/appcompat-1.4.1/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/62a76036ade00632e029701d50778243/transformed/appcompat-1.4.1/res/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/62a76036ade00632e029701d50778243/transformed/appcompat-1.4.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/anim/stripe_card_widget_progress_fade_in.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/87c9850b8d6e7311055347c80b5a3776/transformed/jetified-payments-core-19.2.2/res/anim/stripe_card_widget_progress_fade_in.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/anim/design_snackbar_in.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/5274c569178a0d36b8f4c55496dd0fe3/transformed/material-1.5.0/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/62a76036ade00632e029701d50778243/transformed/appcompat-1.4.1/res/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/anim/stripe_paymentsheet_transition_fade_out.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/c08975e001ea6084d89dcc0b6809d444/transformed/jetified-paymentsheet-19.2.2/res/anim/stripe_paymentsheet_transition_fade_out.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/anim/abc_fade_out.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/62a76036ade00632e029701d50778243/transformed/appcompat-1.4.1/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/62a76036ade00632e029701d50778243/transformed/appcompat-1.4.1/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/anim/stripe_3ds2_challenge_transition_slide_in.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/c49dd30e5da8f7c8653d802333a86dea/transformed/jetified-stripe-3ds2-android-6.1.3/res/anim/stripe_3ds2_challenge_transition_slide_in.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/62a76036ade00632e029701d50778243/transformed/appcompat-1.4.1/res/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/anim/abc_popup_enter.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/62a76036ade00632e029701d50778243/transformed/appcompat-1.4.1/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/anim/btn_radio_to_off_mtrl_dot_group_animation.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/62a76036ade00632e029701d50778243/transformed/appcompat-1.4.1/res/anim/btn_radio_to_off_mtrl_dot_group_animation.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/62a76036ade00632e029701d50778243/transformed/appcompat-1.4.1/res/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/62a76036ade00632e029701d50778243/transformed/appcompat-1.4.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/62a76036ade00632e029701d50778243/transformed/appcompat-1.4.1/res/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/anim/abc_tooltip_enter.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/62a76036ade00632e029701d50778243/transformed/appcompat-1.4.1/res/anim/abc_tooltip_enter.xml"
+    }
+]

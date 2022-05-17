@@ -1,0 +1,2 @@
+com.pichillilorenzo.flutter_inappwebview.in_app_webview.InAppWebViewClient:
+    static void <clinit>()

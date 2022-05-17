@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/62a76036ade00632e029701d50778243/transformed/appcompat-1.4.1/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/62a76036ade00632e029701d50778243/transformed/appcompat-1.4.1/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/62a76036ade00632e029701d50778243/transformed/appcompat-1.4.1/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/drawable-v21/mtrl_navigation_bar_item_background.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/5274c569178a0d36b8f4c55496dd0fe3/transformed/material-1.5.0/res/drawable-v21/mtrl_navigation_bar_item_background.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/62a76036ade00632e029701d50778243/transformed/appcompat-1.4.1/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/drawable-v21/m3_tabs_background.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/5274c569178a0d36b8f4c55496dd0fe3/transformed/material-1.5.0/res/drawable-v21/m3_tabs_background.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/drawable-v21/googlepay_button_no_shadow_background.xml",
+        "source": "/Users/basha/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/stripe_android-2.3.0/android/src/main/res/drawable-v21/googlepay_button_no_shadow_background.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/drawable-v21/googlepay_button_background.xml",
+        "source": "/Users/basha/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/stripe_android-2.3.0/android/src/main/res/drawable-v21/googlepay_button_background.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/62a76036ade00632e029701d50778243/transformed/appcompat-1.4.1/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/0a7d495b56a0c0af839af9b7ef93e06c/transformed/core-1.7.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/drawable-v21/material_cursor_drawable.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/5274c569178a0d36b8f4c55496dd0fe3/transformed/material-1.5.0/res/drawable-v21/material_cursor_drawable.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/drawable-v21/stripe_googlepay_button_no_shadow_background.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/c08975e001ea6084d89dcc0b6809d444/transformed/jetified-paymentsheet-19.2.2/res/drawable-v21/stripe_googlepay_button_no_shadow_background.xml"
+    }
+]

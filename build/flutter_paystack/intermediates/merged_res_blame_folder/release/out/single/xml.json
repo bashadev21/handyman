@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/flutter_paystack/intermediates/merged_res/release/xml/standalone_badge_offset.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/b47bc1535d6fbdd8092833133727562a/transformed/material-1.4.0-alpha01/res/xml/standalone_badge_offset.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/flutter_paystack/intermediates/merged_res/release/xml/standalone_badge_gravity_bottom_end.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/b47bc1535d6fbdd8092833133727562a/transformed/material-1.4.0-alpha01/res/xml/standalone_badge_gravity_bottom_end.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/flutter_paystack/intermediates/merged_res/release/xml/standalone_badge_gravity_bottom_start.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/b47bc1535d6fbdd8092833133727562a/transformed/material-1.4.0-alpha01/res/xml/standalone_badge_gravity_bottom_start.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/flutter_paystack/intermediates/merged_res/release/xml/standalone_badge.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/b47bc1535d6fbdd8092833133727562a/transformed/material-1.4.0-alpha01/res/xml/standalone_badge.xml"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/flutter_paystack/intermediates/merged_res/release/xml/standalone_badge_gravity_top_start.xml",
+        "source": "/Users/basha/.gradle/caches/transforms-3/b47bc1535d6fbdd8092833133727562a/transformed/material-1.4.0-alpha01/res/xml/standalone_badge_gravity_top_start.xml"
+    }
+]

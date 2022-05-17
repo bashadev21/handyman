@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/drawable-night-mdpi-v8/stripe_googlepay_button_no_shadow_background_image_focused.9.png",
+        "source": "/Users/basha/.gradle/caches/transforms-3/c08975e001ea6084d89dcc0b6809d444/transformed/jetified-paymentsheet-19.2.2/res/drawable-night-mdpi-v8/stripe_googlepay_button_no_shadow_background_image_focused.9.png"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/drawable-night-mdpi-v8/googlepay_button_no_shadow_background_image.9.png",
+        "source": "/Users/basha/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/stripe_android-2.3.0/android/src/main/res/drawable-night-mdpi/googlepay_button_no_shadow_background_image.9.png"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/drawable-night-mdpi-v8/stripe_googlepay_button_no_shadow_background_image_pressed.9.png",
+        "source": "/Users/basha/.gradle/caches/transforms-3/c08975e001ea6084d89dcc0b6809d444/transformed/jetified-paymentsheet-19.2.2/res/drawable-night-mdpi-v8/stripe_googlepay_button_no_shadow_background_image_pressed.9.png"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/drawable-night-mdpi-v8/googlepay_button_background_image.9.png",
+        "source": "/Users/basha/flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/stripe_android-2.3.0/android/src/main/res/drawable-night-mdpi/googlepay_button_background_image.9.png"
+    },
+    {
+        "merged": "/Users/basha/Downloads/MainFile_SourceCode/Mobile app/user app/handyman_user_flutter/build/stripe_android/intermediates/merged_res/release/drawable-night-mdpi-v8/stripe_googlepay_button_no_shadow_background_image.9.png",
+        "source": "/Users/basha/.gradle/caches/transforms-3/c08975e001ea6084d89dcc0b6809d444/transformed/jetified-paymentsheet-19.2.2/res/drawable-night-mdpi-v8/stripe_googlepay_button_no_shadow_background_image.9.png"
+    }
+]
